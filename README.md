@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wick! 🎸</h1>
+<h1>Hi 👋, I'm Wick! 🎸</h1>
 
 - 🎵 Fans of the band Queen.
 - 🪄 Interested in all programming languages, especially Haskell.
